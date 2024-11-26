@@ -26,12 +26,3 @@ Ensure you have the following installed:
 
 ---
 
-## 💻 Getting Started
-
-Follow these steps to set up the project on your local machine:
-
-### 1. Clone the Repository
-
-Clone this repository using the following command:
-```bash
-git clone https://github.com/your-username/India-Crime-Dataset-Dynamic-Visualization.git
