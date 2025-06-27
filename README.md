@@ -1,6 +1,6 @@
 # 📊 India-Crime-Dataset-Dynamic-Visualization
 
-A comprehensive, dynamic data visualization project using React and D3 to analyze and compare crime data across different districts of India. This project allows users to select crime types, states, and different chart types to gain insights into crime distribution across regions, as well as visualize subcategory distributions for crimes with detailed classifications.
+A comprehensive, detailed dynamic data visualization project using React and D3 to analyze and compare crime data across different districts of India. This project allows users to select crime types, states, and different chart types to gain insights into crime distribution across regions, as well as visualize subcategory distributions for crimes with detailed classifications.
 
 ## 🚀 Features
 
